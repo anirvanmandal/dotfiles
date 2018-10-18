@@ -1,1 +1,5 @@
 .vimrc:config
+.bashrc:config
+.bash_profile:config
+.gitconfig:config
+
