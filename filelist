@@ -2,4 +2,5 @@
 .bashrc:config
 .bash_profile:config
 .gitconfig:config
-
+/etc/conky/conky.conf:config
+/etc/hosts:config

@@ -29,6 +29,7 @@ Plug 'Valloric/YouCompleteMe' " Enable Autocomplete for different languages
 Plug 'tpope/vim-surround' " Enable surrounding of braces and quotes
 Plug 'tpope/vim-endwise' " Enable automatic ends on ruby
 Plug 'ctrlpvim/ctrlp.vim' " Fuzzy file, buzzer etc search
+Plug 'vim-syntastic/syntastic'
 Plug 'junegunn/fzf'
 Plug 'vim-scripts/BufOnly.vim'
 Plug 'jeetsukumaran/vim-buffergator'
